@@ -6,7 +6,7 @@ var app = express();
 var customerController=function (req, res) {
   console.log("CAlling rest api");
   var customers=[
-            {firstName:'Ravi',lastName:'Tambade',age:43},
+            {firstName:'Ojasi',lastName:'Tambade',age:43},
             {firstName:'Prashant',lastName:'Karhale',age:43},
             {firstName:'Rohit',lastName:'Puranik',age:28},
             {firstName:'Shiv',lastName:'Kumar',age:25},
